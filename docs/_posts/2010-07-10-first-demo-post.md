@@ -4,7 +4,7 @@ title: TICS EN LA EDUCACIÓN
 date: 2020-07-10 13:32:20 +0300
 description: You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 <a href="default.asp">
-<img src="https://i2.wp.com/www.revistanuve.com/wp-content/uploads/2018/09/TICS-Principal.jpg?fit=1170%2C774&ssl=1&is-pending-load=1" alt="HTML tutorial" style="width:150px;height:100px;">
+image: <img src="https://i2.wp.com/www.revistanuve.com/wp-content/uploads/2018/09/TICS-Principal.jpg?fit=1170%2C774&ssl=1&is-pending-load=1" alt="HTML tutorial" style="width:150px;height:100px;">
 </a>
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
