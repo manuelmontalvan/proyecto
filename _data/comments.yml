@@ -3,5 +3,5 @@ enabled: true
 type: disqus
 
 disqus:
-  name: https://disqus.com/by/billsfarnsworth/
+  name: panthera-jekyll
 
