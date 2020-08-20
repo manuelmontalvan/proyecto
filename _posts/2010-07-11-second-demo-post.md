@@ -15,3 +15,4 @@ La cantidad de librerías que contiene, tipos de datos y funciones incorporadas 
 La sencillez y velocidad con la que se crean los programas. Un programa en Python puede tener de 3 a 5 líneas de código menos que su equivalente en Java o C.
 La cantidad de plataformas en las que podemos desarrollar, como Unix, Windows, OS/2, Mac, Amiga y otros.
 Además, Python es gratuito, incluso para propósitos empresariales.
+([continuar leyendo](https://desarrolloweb.com/articulos/1325.php)).
