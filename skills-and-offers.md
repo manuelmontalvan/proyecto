@@ -13,4 +13,5 @@ Al inicio de la informática, el software era un componente más. El programa se
 Para entonces,  todo el programa se desarrollaba con las dimensiones propias para cada necesidad concreta, y por consiguiente, normalmente tenía muy poca difusión, por lo que, solo quien lo necesita, escribía sobre el asunto y sete mismo se encargaba de mantenerlo.
 
 Ingeniería de software en la actualidad
-En la actualidad el software tiene un doble papel. Es el producto, pero al mismo tiempo, actúa como el conductor que entrega el producto. Como conductor  utilizado para entregar el producto, actúa como base de control, por ejemplo un sistema operativo, o un sistema gestor de redes.
+En la actualidad el software tiene un doble papel. Es el producto, pero al mismo tiempo, actúa como el conductor que entrega el producto. Como conductor  utilizado para entregar el producto, actúa como base de control, por ejemplo un sistema operativo, o un sistema gestor de redes.[continuar leyendo](https://micarrerauniversitaria.com/c-ingenieria/ingenieria-de-software/).
+
