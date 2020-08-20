@@ -9,7 +9,7 @@ defaults:
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-title: Christian Ezeani
+title: Manuel Montalvan
 subtitle: Full-Stack Developer
 
 # left_side:
@@ -27,19 +27,19 @@ menu:
     link: /
     icon: ""
 
-  - text: Skills & Offers
+  - text: Ingeniería de Software
     link: /skills-and-offers
     icon: ""
 
-  - text: Contact Me
+  - text: Contactos
     link: /contact
     icon: ""
 
-  - text: My Resume
+  - text: Mi Resumen
     link: /resume
     icon: ""
 
-  - text: Blog Posts
+  - text: Blog 
     link: /blog
     icon: ""
 
