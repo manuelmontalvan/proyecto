@@ -12,7 +12,7 @@
 
 
 # TWITTER
-https://twitter.com/BillsKC17
+
 [https://twitter.com/BillsKC17](https://twitter.com/BillsKC17).
 
 
