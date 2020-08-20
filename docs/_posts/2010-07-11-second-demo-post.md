@@ -4,7 +4,7 @@ title: INTELIGENCIA ARTIFICIAL
 date: 2020-07-11 13:32:20 +0300
 description: You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 fig-caption: # Add figcaption (optional)
-image: # Add image inteligencia(optional)
+image: /assets/images/posts/inteligencia.jpg
 tags: [Holidays, Hawaii]
 ---
 

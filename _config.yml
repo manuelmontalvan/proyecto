@@ -9,8 +9,8 @@ defaults:
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-title: Christian Ezeani
-subtitle: Full-Stack Developer
+title: Manuel Montalvan
+subtitle: Estudiante Ingenieria En Software 
 
 # left_side:
 #   background_image: "./assets/images/left-background.jpg"
@@ -23,42 +23,40 @@ footer:
 
 # Side Menu Links
 menu:
-  - text: Portfolio
+  - text: Mi Perfil
     link: /
     icon: ""
 
-  - text: Skills & Offers
+  - text: Ingeniería de Software
     link: /skills-and-offers
     icon: ""
 
-  - text: Contact Me
+  - text: Contactos
     link: /contact
     icon: ""
 
-  - text: My Resume
+  - text: Mi Resumen
     link: /resume
     icon: ""
 
-  - text: Blog Posts
+  - text: Blog 
     link: /blog
     icon: ""
 
 # Socialmedia Icons
 social_icons:
-  - name: linkedin
-    link: https://www.linkedin.com/christianezeani
-    icon: fab fa-linkedin
+  
 
   - name: github
-    link: https://github.com/christianezeani
+    link: https://github.com/manuelmontalvan
     icon: fab fa-github-square
 
   - name: facebook
-    link: https://www.facebook.com/christian.ezeani.cyb
+    link: https://www.facebook.com/manuel.montalvan.92/
     icon: fab fa-facebook-square
 
   - name: twitter
-    link: https://www.twitter.com/christianezeani
+    link: https://twitter.com/BillsKC17
     icon: fab fa-twitter
 
 
