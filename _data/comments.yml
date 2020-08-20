@@ -3,5 +3,5 @@ enabled: true
 type: disqus
 
 disqus:
-  name: billsfarnsworth
+  name: https://disqus.com/by/billsfarnsworth/
 
