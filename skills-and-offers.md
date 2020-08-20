@@ -14,3 +14,4 @@ Para entonces,  todo el programa se desarrollaba con las dimensiones propias par
 
 Ingeniería de software en la actualidad
 En la actualidad el software tiene un doble papel. Es el producto, pero al mismo tiempo, actúa como el conductor que entrega el producto. Como conductor  utilizado para entregar el producto, actúa como base de control, por ejemplo un sistema operativo, o un sistema gestor de redes.
+https://micarrerauniversitaria.com/c-ingenieria/ingenieria-de-software/
