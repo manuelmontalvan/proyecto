@@ -5,6 +5,4 @@
 
 Soy un chico responsable y trabajador
 
-<a href="default.asp">
-  <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
-</a>
+<img src="/images/html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
