@@ -1,8 +1,8 @@
 ---
 ---
 
-# My Resume
+# Resumen 
 
-Soy un chico responsable y trabajador
+Soy una persona Responsable y Trabajadora
 
-  background-image: url('img_girl.jpg');
+<img src="/images/html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
