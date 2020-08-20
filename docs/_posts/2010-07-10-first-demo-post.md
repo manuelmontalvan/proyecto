@@ -17,3 +17,4 @@ La UNESCO comparte los conocimientos respecto a las diversas formas en que la te
 La Organización examina el mundo en busca de ejemplos exitosos de aplicación de las TIC a la labor pedagógica – ya sea en escuelas primarias de bajos recursos, universidades en países de altos ingresos o centros de formación profesional – con miras a elaborar políticas y directrices.
 
 Mediante actividades de fomento de la capacidad, asesoramiento técnico, publicaciones, investigaciones y conferencias internacionales como la Conferencia internacional sobre la Inteligencia Artificial en la Educación o la Semana del Aprendizaje Mediante Dispositivos Móviles, la UNESCO ayuda a los gobiernos y a otras partes interesadas a valerse de las tecnologías para fomentar el aprendizaje.
+[Continuar leyendo](https://es.unesco.org/themes/tic-educacion).
